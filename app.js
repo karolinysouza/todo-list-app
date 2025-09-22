@@ -6,7 +6,7 @@ const addTask = () => {
 
   if (text) {
     tasks.push({ text: text, completed: false });
-
+    taskInput.value = "";
     updateTasksList();
     updateStats();
   }

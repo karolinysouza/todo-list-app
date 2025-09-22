@@ -8,8 +8,8 @@
   --background: #000430;
   --secondaryBackground: #171c48;
   --text: #fff;
-  --purple: #ff80bf;
-  --teal: #b388eb;
+  --pink: #ff80bf;
+  --lilac: #b388eb;
 }
 
 body {
@@ -23,7 +23,6 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-top: 120px;
   margin: 120px auto 0 auto;
   max-width: 500px;
 }
@@ -31,7 +30,7 @@ body {
 .stats-container {
   padding: 30px;
   border-radius: 20px;
-  border: 2px solid var(--purple);
+  border: 2px solid var(--pink);
   display: flex;
   justify-content: space-between;
   gap: 50px;
@@ -53,7 +52,7 @@ body {
 #progress {
   width: 0%;
   height: 10px;
-  background-color: var(--teal);
+  background-color: var(--lilac);
   border-radius: 10px;
   transition: all 0.3s ease;
 }
@@ -61,13 +60,15 @@ body {
 #numbers {
   width: 100px;
   height: 100px;
-  background-color: var(--purple);
+  background-color: var(--secondaryBackground);
+  border: 2px solid var(--lilac);
   display: flex;
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  font-size: 30px;
+  font-size: 26px;
   font-weight: bold;
+  color: var(--lilac);
 }
 
 form {
@@ -81,7 +82,7 @@ input {
   flex: 1;
   padding: 16px;
   background: var(--secondaryBackground);
-  border: 1px solid var(--purple);
+  border: 1px solid var(--pink);
   border-radius: 10px;
   outline: none;
   color: var(--text);
@@ -90,13 +91,13 @@ input {
 button {
   width: 50px;
   height: 50px;
-  border-radius: 50%;
+  border-radius: 12px;
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: var(--purple);
+  background-color: var(--lilac);
   color: var(--text);
-  font-size: 30px;
+  font-size: 22px;
   font-weight: bold;
   outline: none;
   border: none;
@@ -135,7 +136,7 @@ button {
 
 .task.completed p {
   text-decoration: line-through;
-  color: var(--teal);
+  color: var(--lilac);
 }
 
 .taskItem img {
