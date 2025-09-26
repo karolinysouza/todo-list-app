@@ -145,3 +145,33 @@ button {
   margin: 0 10px;
   cursor: pointer;
 }
+
+@media (max-width: 550px) {
+  .container {
+    margin: 40px auto 0 auto;
+    max-width: 90%;
+    padding: 0 10px;
+  }
+  .stats-container {
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+  }
+
+  form {
+    margin-top: 60px;
+    width: 100%;
+    display: flex;
+    gap: 10px;
+  }
+
+  input {
+    flex: 1;
+  }
+
+  button {
+    width: 60px;
+    height: 50px;
+    flex-shrink: 0;
+  }
+}
