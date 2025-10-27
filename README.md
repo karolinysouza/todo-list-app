@@ -63,7 +63,9 @@ A interface foi pensada para ser moderna, acessível e agradável, com foco na e
 ## Imagens do Projeto
 
 ![Tela inicial](https://github.com/user-attachments/assets/d5f0f381-db35-48ff-b283-8c4d05f0c1a2) 
+
 ![Tarefa adicionada](https://github.com/user-attachments/assets/e5bc2e8f-78d4-4825-9414-c7958e53c44a)
+
 ![Tarefas concluídas](https://github.com/user-attachments/assets/51c47c39-12e2-48ff-9ea8-522c7183f088)
 
 
@@ -145,7 +147,9 @@ The interface was designed to be modern, accessible, and pleasant, focusing on u
 ## Project Images
 
 ![Home Screen](https://github.com/user-attachments/assets/d5f0f381-db35-48ff-b283-8c4d05f0c1a2)
+
 ![Task Added](https://github.com/user-attachments/assets/e5bc2e8f-78d4-4825-9414-c7958e53c44a)
+
 ![Completed Tasks](https://github.com/user-attachments/assets/51c47c39-12e2-48ff-9ea8-522c7183f088)
 
 
