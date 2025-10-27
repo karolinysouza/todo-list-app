@@ -6,7 +6,7 @@ Selecione o idioma / Select Language:
 * **[English (EN)](#english)**
 ---
 
-<a id="portugues"> ## Português (PT-BR)</a>
+## <a id="portugues">Português (PT-BR)</a>
 
 # To-Do List
 
@@ -90,7 +90,7 @@ LinkedIn: https://www.linkedin.com/in/karoliny-souza/
 
 ---
 
-<a id="english">## English (EN)</a>
+## <a id="english">English (EN)</a>
 
 # To-Do List
 
