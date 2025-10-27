@@ -24,7 +24,7 @@ O usuário pode adicionar, marcar como concluídas e remover tarefas, mantendo o
 * HTML5: Estrutura semântica e organizada
 * CSS3: Estilização e responsividade
 * JavaScript (ES6): Lógica e interatividade
-* [tsparticles/confetti](https://github.com/matteobruni/tsparticles): Biblioteca para efeito de confete
+* Biblioteca tsparticles/confetti, utilizada para animação de confetes [GitHub](https://github.com/matteobruni/tsparticles)
 
 
 ## Funcionalidades
@@ -75,11 +75,12 @@ A interface foi pensada para ser moderna, acessível e agradável, com foco na e
 📁 todo-list
 ├── 📁 css
 │   └── style.css
-├── 📁 js
-│   └── app.js
 ├── 📁 img
 │   ├── edit.png
 │   └── bin.png
+├── 📁 js
+│   └── app.js
+├── README.md
 └── index.html
 ```
 
@@ -90,7 +91,7 @@ LinkedIn: https://www.linkedin.com/in/karoliny-souza/
 
 ---
 
-<a id="english">English (EN)</a> <a id="portugues">Português (PT-BR)</a>
+<a id="english">English (EN)</a>
 
 # To-Do List
 
@@ -108,7 +109,7 @@ The user can add tasks, mark them as completed, and remove them, with all data p
 * HTML5: Semantic and organized structure
 * CSS3: Styling and responsiveness
 * JavaScript (ES6): Logic and interactivity
-* [tsparticles/confetti](https://github.com/matteobruni/tsparticles): Library used for confetti animation
+* tsparticles/confetti library, used for confetti animation [GitHub](https://github.com/matteobruni/tsparticles)
 
 
 ## Features
@@ -159,11 +160,12 @@ The interface was designed to be modern, accessible, and pleasant, focusing on u
 📁 todo-list
 ├── 📁 css
 │   └── style.css
-├── 📁 js
-│   └── app.js
 ├── 📁 img
 │   ├── edit.png
 │   └── bin.png
+├── 📁 js
+│   └── app.js
+├── README.md
 └── index.html
 ```
 
