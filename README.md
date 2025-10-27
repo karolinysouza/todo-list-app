@@ -14,8 +14,8 @@ Projeto desenvolvido com **HTML**, **CSS** e **JavaScript puro**, com o objetivo
 
 O usuário pode adicionar, marcar como concluídas e remover tarefas, mantendo os dados armazenados mesmo após atualizar a página.
 
-✨ **[Acesse o site publicado](https://karolinysouza.github.io/todo-list-app/)**
-**[Veja a publicação no LinkedIn]** (https://www.linkedin.com/in/karoliny-souza/](https://www.linkedin.com/posts/karoliny-souza_javascript-frontend-webdevelopment-activity-7388692043113525248-mvmd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxSmbYBXKmgA-d_Zw_vOZXPVxWGlVxAGek)
+✨ [Acesse o site publicado](https://karolinysouza.github.io/todo-list-app/)
+✨ [Veja a publicação no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7388692043113525248/)
 
 ---
 
