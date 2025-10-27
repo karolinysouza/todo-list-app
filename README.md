@@ -1,4 +1,4 @@
-#🌍 Versão Bilíngue / Bilingual Version: Português e Inglês
+# 🌍 Versão Bilíngue / Bilingual Version: Português e Inglês
 
 Selecione o idioma / Select Language:
 
