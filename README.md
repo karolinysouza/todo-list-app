@@ -62,7 +62,7 @@ A interface foi pensada para ser moderna, acessível e agradável, com foco na e
 
 ## Imagens do Projeto
 
-![Tela inicial](<img width="1651" height="900" alt="Image" src="https://github.com/user-attachments/assets/d5f0f381-db35-48ff-b283-8c4d05f0c1a2" />) 
+![Tela inicial](https://github.com/user-attachments/assets/d5f0f381-db35-48ff-b283-8c4d05f0c1a2) 
 ![Tarefa adicionada](<img width="1664" height="910" alt="Image" src="https://github.com/user-attachments/assets/e5bc2e8f-78d4-4825-9414-c7958e53c44a" />)
 ![Tarefas concluídas](<img width="1657" height="903" alt="Image" src="https://github.com/user-attachments/assets/51c47c39-12e2-48ff-9ea8-522c7183f088" />)
 
