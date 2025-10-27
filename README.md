@@ -1,4 +1,4 @@
-🌍# Versão Bilíngue / Bilingual Version: Português e Inglês
+#🌍 Versão Bilíngue / Bilingual Version: Português e Inglês
 
 Selecione o idioma / Select Language:
 
@@ -106,8 +106,9 @@ Project developed using **HTML**, **CSS**, and **pure JavaScript**, with the goa
 
 The user can add tasks, mark them as completed, and remove them, with all data persisting even after reloading the page.
 
-**[Access the live site]** (https://karolinysouza.github.io/todo-list-app/)
-**[Check out the LinkedIn post]** (https://www.linkedin.com/in/karoliny-souza/](https://www.linkedin.com/posts/karoliny-souza_javascript-frontend-webdevelopment-activity-7388692043113525248-mvmd?utm_source=share&utm_medium=member_desktop&rcm=ACoAADxSmbYBXKmgA-d_Zw_vOZXPVxWGlVxAGek)
+✨ [Access the live site](https://karolinysouza.github.io/todo-list-app/)
+
+✨ [Check out the LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7388692043113525248/)
 
 ---
 
