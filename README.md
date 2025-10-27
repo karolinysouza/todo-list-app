@@ -18,7 +18,6 @@ O usuário pode adicionar, marcar como concluídas e remover tarefas, mantendo o
 
 ✨ [Veja a publicação no LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7388692043113525248/)
 
----
 
 ## Tecnologias Utilizadas
 
@@ -27,7 +26,6 @@ O usuário pode adicionar, marcar como concluídas e remover tarefas, mantendo o
 * JavaScript (ES6): Lógica e interatividade
 * [tsparticles/confetti](https://github.com/matteobruni/tsparticles): Biblioteca para efeito de confete
 
----
 
 ## Funcionalidades
 
@@ -39,7 +37,6 @@ O usuário pode adicionar, marcar como concluídas e remover tarefas, mantendo o
 * Exibir progresso de conclusão com barra dinâmica
 * Efeito de confete ao concluir todas as tarefas (usando `tsparticles.confetti`)
 
----
 
 ## Conceitos Praticados
 
@@ -51,7 +48,6 @@ O usuário pode adicionar, marcar como concluídas e remover tarefas, mantendo o
 * Boas práticas de CSS responsivo
 * Persistência de dados com localStorage
 
----
 
 ## Estilo e Design
 
@@ -63,7 +59,6 @@ A interface foi pensada para ser moderna, acessível e agradável, com foco na e
 * Transições sutis para fluidez na navegação
 * Responsividade com media queries para adaptação em telas menores
 
----
 
 ## Imagens do Projeto
 
@@ -73,7 +68,6 @@ A interface foi pensada para ser moderna, acessível e agradável, com foco na e
 
 *(As imagens estão na pasta `images/` do projeto.)*
 
----
 
 ## Estrutura de Pastas
 
@@ -90,7 +84,6 @@ A interface foi pensada para ser moderna, acessível e agradável, com foco na e
 └── index.html
 ```
 
----
 
 ## Contato
 
@@ -110,7 +103,6 @@ The user can add tasks, mark them as completed, and remove them, with all data p
 
 ✨ [Check out the LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7388692043113525248/)
 
----
 
 ## Technologies Used
 
@@ -119,7 +111,6 @@ The user can add tasks, mark them as completed, and remove them, with all data p
 * JavaScript (ES6): Logic and interactivity
 * [tsparticles/confetti](https://github.com/matteobruni/tsparticles): Library used for confetti animation
 
----
 
 ## Features
 
@@ -131,7 +122,6 @@ The user can add tasks, mark them as completed, and remove them, with all data p
 * Display progress with a dynamic progress bar
 * Confetti effect when all tasks are completed (using `tsparticles.confetti`)
 
----
 
 ## Practiced Concepts
 
@@ -143,7 +133,6 @@ The user can add tasks, mark them as completed, and remove them, with all data p
 * Responsive CSS best practices
 * Data persistence with localStorage
 
----
 
 ## Style and Design
 
@@ -155,7 +144,6 @@ The interface was designed to be modern, accessible, and pleasant, focusing on u
 * Smooth transitions for navigation fluidity
 * Responsive layout with media queries for smaller screens
 
----
 
 ## Project Images
 
@@ -165,7 +153,6 @@ The interface was designed to be modern, accessible, and pleasant, focusing on u
 
 *(Images are available in the `images/` folder of the project.)*
 
----
 
 ## Folder Structure
 
@@ -182,7 +169,6 @@ The interface was designed to be modern, accessible, and pleasant, focusing on u
 └── index.html
 ```
 
----
 
 ## Contact
 
